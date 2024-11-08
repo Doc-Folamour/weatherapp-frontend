@@ -1,5 +1,5 @@
 // Insert your code here
-const backendURL = "http://localhost:3000";
+const backendURL = "https://weatherapp-backend-drab.vercel.app";
 
 // Register button
 document.querySelector("#register").addEventListener("click", function () {

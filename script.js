@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:3000";
+const backendUrl = "https://weatherapp-backend-drab.vercel.app";
 
 fetch(`${backendUrl}/weather`)
 	.then(response => response.json())
